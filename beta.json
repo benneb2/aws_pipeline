@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "*"
+        "OriginUrl": "https://s3.amazonaws.com/datass-serverless-stack-s3bucket-nafy59vq6i4a"
     }
 }
